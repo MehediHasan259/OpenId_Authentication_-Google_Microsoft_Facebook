@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\All Project List\open_Google_Microsoft_Git\OpenId_Authentication_-Google_Microsoft_Facebook\OpenID_Authentication\OpenID_Authentication
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/All Project List/open_Google_Microsoft_Git/OpenId_Authentication_-Google_Microsoft_Facebook/OpenID_Authentication/OpenID_Authentication/Views/Google/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29vZ2xlXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/All Project List/open_Google_Microsoft_Git/OpenId_Authentication_-Google_Microsoft_Facebook/OpenID_Authentication/OpenID_Authentication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

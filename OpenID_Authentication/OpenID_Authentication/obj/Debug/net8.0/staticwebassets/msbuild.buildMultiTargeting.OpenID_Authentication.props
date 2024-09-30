@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OpenID_Authentication.props" />
+</Project>

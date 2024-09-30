@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenID_Authentication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fade9e143d2a066f60ade522f5320ccfe9d2ddf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9691d427e026b70a70cafe1b0c9603bbabe27b13")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenID_Authentication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenID_Authentication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

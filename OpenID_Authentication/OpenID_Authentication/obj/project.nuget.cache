@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pYHyHrWomek=",
+  "dgSpecHash": "HG9ql6r1N+4=",
   "success": true,
   "projectFilePath": "D:\\All Project List\\open_Google_Microsoft_Git\\OpenId_Authentication_-Google_Microsoft_Facebook\\OpenID_Authentication\\OpenID_Authentication\\OpenID_Authentication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\8.0.6\\microsoft.aspnetcore.authentication.google.8.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
